@@ -16,4 +16,5 @@ require_once(CORE_PATH.DS.'users.php');
 require_once(CORE_PATH.DS.'checkout.php');
 require_once(CORE_PATH.DS.'cart.php');
 require_once(CORE_PATH.DS.'session.php');
+require_once(CORE_PATH.DS.'message.php');
 ?>
